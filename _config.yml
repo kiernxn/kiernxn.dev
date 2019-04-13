@@ -49,10 +49,6 @@ topics:
     web_url: https://github.com/topics/r
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png
 
-  - name: Machine Learning
-    web_url: https://github.com/topics/machine-learning
-    image_url: https://static.thenounproject.com/png/1870030-200.png
-
   - name: Markdown
     web_url: https://github.com/topics/markdown
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png
